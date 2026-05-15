@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "features": "Features",
+    "pro": "Pro",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "Your budget, by envelope.",
+    "description": "Simple manual spending tracker.\nBest budget tracker without bank linking.\nAssign money and never go over budget.",
+    "cta_ios": "Download on the App Store",
+    "cta_android": "Get it on Google Play",
+    "coming_soon": "Coming Soon"
+  },
+  "features": {
+    "title": "Everything you need to manage your finances",
+    "envelope_title": "Envelope budgeting",
+    "envelope_desc": "Split your money into visual categories. Knowing how much is left in each envelope is as easy as looking.",
+    "stats_title": "Detailed statistics",
+    "stats_desc": "Daily spending charts, by category and by day of the week. Understand your habits at a glance.",
+    "cap_title": "Daily spending cap",
+    "cap_desc": "Set a daily spending limit and get alerts before you go over.",
+    "recurring_title": "Recurring expenses",
+    "recurring_desc": "Log your fixed expenses once and forget about it. They'll be deducted automatically each period.",
+    "sync_title": "Cloud sync",
+    "sync_desc": "Your data is always safe and accessible. Switch devices without losing anything.",
+    "themes_title": "Premium themes",
+    "themes_desc": "Customize the app with 9 unique themes, from minimalist to animated."
+  },
+  "pro": {
+    "title": "qyp Pro",
+    "subtitle": "Unlock the full potential of qyp",
+    "trial": "30 days free, no credit card",
+    "feature_1": "Advanced statistics",
+    "feature_2": "Cloud sync",
+    "feature_3": "Daily spending cap",
+    "feature_4": "Recurring expenses",
+    "feature_5": "Premium themes",
+    "feature_6": "Unlimited envelopes",
+    "cta": "Start free trial"
+  },
+  "footer": {
+    "copyright": "© {year} qyp · All rights reserved",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  }
+}

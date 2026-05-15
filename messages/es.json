@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "features": "Funciones",
+    "pro": "Pro",
+    "download": "Descargar"
+  },
+  "hero": {
+    "tagline": "Tu presupuesto, por sobres.",
+    "description": "Simple manual spending tracker.\nBest budget tracker without bank linking.\nAsigna dinero a cada categoría y nunca te pases del presupuesto.",
+    "cta_ios": "Descargar en App Store",
+    "cta_android": "Disponible en Google Play",
+    "coming_soon": "Próximamente"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para llevar tus finanzas",
+    "envelope_title": "Presupuesto por sobres",
+    "envelope_desc": "Divide tu dinero en categorías visuales. Saber cuánto te queda en cada sobre es tan fácil como mirar.",
+    "stats_title": "Estadísticas detalladas",
+    "stats_desc": "Gráficas de gasto diario, por categoría y por día de la semana. Entiende tus hábitos de un vistazo.",
+    "cap_title": "Límite diario",
+    "cap_desc": "Establece un tope de gasto diario y recibe alertas antes de pasarte.",
+    "recurring_title": "Gastos recurrentes",
+    "recurring_desc": "Registra tus gastos fijos una vez y olvídate. Se descontarán automáticamente cada período.",
+    "sync_title": "Sincronización en la nube",
+    "sync_desc": "Tus datos siempre seguros y accesibles. Cambia de dispositivo sin perder nada.",
+    "themes_title": "Temas premium",
+    "themes_desc": "Personaliza la app con 9 temas únicos, desde minimalistas hasta animados."
+  },
+  "pro": {
+    "title": "qyp Pro",
+    "subtitle": "Desbloquea todo el potencial de qyp",
+    "trial": "30 días gratis, sin tarjeta",
+    "feature_1": "Estadísticas avanzadas",
+    "feature_2": "Sincronización en la nube",
+    "feature_3": "Límite de gasto diario",
+    "feature_4": "Gastos recurrentes",
+    "feature_5": "Temas premium",
+    "feature_6": "Sobres ilimitados",
+    "cta": "Empezar prueba gratuita"
+  },
+  "footer": {
+    "copyright": "© {year} qyp · Todos los derechos reservados",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  }
+}
