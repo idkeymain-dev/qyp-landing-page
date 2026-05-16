@@ -10,10 +10,10 @@ export function Navbar() {
 
   return (
     <nav className="fixed top-0 inset-x-0 z-50 flex items-center justify-between px-6 py-4 bg-[#1a1617] border-b border-[#2a2a2e]">
-      <div className="flex items-center gap-2">
+      <Link href={`/${locale}`} className="flex items-center gap-2">
         <Image src="/qyp-logo.png" alt="qyp" width={28} height={28} className="rounded-lg" />
         <span className="text-xl font-semibold tracking-wide text-[#f4f3f0]">qyp</span>
-      </div>
+      </Link>
       <div className="flex items-center gap-6">
         <a href="#features" className="hidden sm:block text-sm text-[#6a8a88] hover:text-[#f4f3f0] transition-colors">
           {t("features")}
