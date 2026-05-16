@@ -21,6 +21,9 @@ export function Navbar() {
         <a href="#pro" className="hidden sm:block text-sm text-[#6a8a88] hover:text-[#f4f3f0] transition-colors">
           {t("pro")}
         </a>
+        <Link href={`/en/blog`} className="hidden sm:block text-sm text-[#6a8a88] hover:text-[#f4f3f0] transition-colors">
+          {t("blog")}
+        </Link>
         <Link
           href={`/${otherLocale}`}
           className="text-sm text-[#6a8a88] hover:text-[#f4f3f0] transition-colors uppercase"
